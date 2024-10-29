@@ -1,6 +1,8 @@
+console.log("Script Loaded")
+
 const registerUser = () => {
     event.preventDefault()
-
+    console.log("Clicked")
 
     const userData = {
         name:document.getElementById('name').value,
