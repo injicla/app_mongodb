@@ -16,5 +16,10 @@ form{
     align-items: center;
 }
 
-
+input{
+  outline-color: linear-gradient(to left, #743ad5, #d53a9d) 1;
+  border-radius: 25px;
+  outline: 4px;
+  border: 4px ;
+}
     
